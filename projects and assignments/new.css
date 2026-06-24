@@ -1,0 +1,93 @@
+/* TYPE SELECTOR */
+body{
+    font-family: Arial, sans-serif;
+    font-size:18px;
+    background: linear-gradient(180deg, #fffaf0 0%, #fff8dc 100%);
+    color:#333;
+    margin:0;
+    line-height:1.5;
+}
+
+header{
+    background: linear-gradient(135deg, #8b0000, #b22222);
+    color: #fffaf0;
+    font-size: 22px;
+    text-align: center;
+    padding: 25px 15px;
+    border-bottom: 4px solid #ffd700;
+}
+
+h1{
+    font-size: 36px;
+    margin: 8px 0;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+h2{
+    color:#8b0000;
+    font-size:30px;
+    text-align: center;
+}
+
+h3{
+    color:#2f5d2a;
+    font-size:24px;
+    text-align:center;
+}
+
+caption{
+    color:#8b0000;
+    font-size:28px;
+    font-weight: bold;
+    margin-bottom:8px;
+}
+
+table{
+    width: 90%;
+    max-width: 900px;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 4px 12px rgba(139, 0, 0, 0.15);
+}
+
+th{
+    background: linear-gradient(135deg, #8b0000, #b22222);
+    color:white;
+    font-size:20px;
+    padding:10px;
+}
+
+td{
+    background-color:#fffef7;
+    color:#333;
+    font-size:18px;
+    padding:10px;
+    border: 1px solid #e6d9b8;
+}
+
+ul{
+    background-color:#fffbea;
+    color:#2c3e50;
+    font-size:18px;
+    width: fit-content;
+    margin: 18px auto;
+    padding: 12px 25px 12px 35px;
+    border-left: 4px solid #c99700;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+footer{
+    background: linear-gradient(135deg, #7a0000, #a00000);
+    color:#fffaf0;
+    font-size:18px;
+    text-align:center;
+    padding:15px;
+    margin-top:20px;
+}
+.fa-plate-utensils{
+    color: #ffd700;
+    font-size: 35px;
+}
